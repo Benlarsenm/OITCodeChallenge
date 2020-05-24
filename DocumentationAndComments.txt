@@ -1,0 +1,39 @@
+Documentation/Comments
+
+
+Time spent on challenge: 4 hrs
+
+
+File Explantions:
+WorkingSourceCode.cpp - This is the code that the .exe file was created from.
+OITChallengeEXE.exe - The program executable. 
+SourceCode ofNextStep.cpp - This is what was working on next. I couldn't get it to work correctly though so the
+	the executable that I create was made from the working function I had.
+
+Solution Requirements: 
+	The solution is a console app so you will need to use the Windows command line 
+	to see the results. Within the directory that the executable file is located, type "OITChallengeEXE.exe"
+	to run the program.
+
+Opening Source code:
+	Any text editor that supports .cpp files should open the source code. Visual Studio works great.
+
+Issues/Next Step:
+	I after creating a function for converting Roman numerals to Normal numbers my code kept dropping the first
+ 	Roman numeral input so my conversion for this part always off by the amount of the first roman numeral.  
+	I was trying to get the code to work just fine putting this logic into the main function.  This is what I 
+	submitted as the program.  I ran out of time troubleshooting this step.  
+
+	After I got that function to work, I was planning on adding a simple selection menu at the beginning. That
+ 	would ask the user to input “n” if they want to go from Roman Numeral to Normal number, or “r” if they 
+	wanted to go from a Normal Number to a Roman numeral.  After doing this I was planning on implement the 
+	function for converting a Normal number to a Roman numeral.  I didn’t have the chance to think about the 
+	logic of this because of the bugs that I ran into.
+
+
+
+
+
+
+
+
